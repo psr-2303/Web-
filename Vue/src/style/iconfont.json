@@ -1,0 +1,58 @@
+{
+  "id": "3617708",
+  "name": "jingdong",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6308130",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "5388031",
+      "name": "地图_o",
+      "font_class": "ditu_o",
+      "unicode": "ebbc",
+      "unicode_decimal": 60348
+    },
+    {
+      "icon_id": "14167206",
+      "name": "铃声",
+      "font_class": "lingsheng",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "8710920",
+      "name": "订单管理",
+      "font_class": "dingdanguanli",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "5483986",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "9499379",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "9499385",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}
